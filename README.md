@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Uday 👋
+A curious coder, Dark UI lover, and AI enthusiast🧠
+
+💻 I build fun and useful web apps (sometimes with too much black👨‍💻)
+
+🤖 I explore AI/ML and make smart things a innovative.
+
+🧪 I experiment with code like it's magic potion
+
+🎨 I enjoy designing user friendly interface that spark joy
 
 
 ## 🌐 Socials:
