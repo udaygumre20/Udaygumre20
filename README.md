@@ -7,7 +7,7 @@ A curious coder, Dark UI lover, and AI enthusiast🧠
 
 🧪 I experiment with code like it's magic potion
 
-🎨 I enjoy designing user friendly interface that spark joy
+🎨 I enjoy designing user friendly interface that spark joy.
 
 
 ## 🌐 Socials:
